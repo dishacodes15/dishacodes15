@@ -6,10 +6,13 @@
 ### <div align="center">I'm Disha, a second-year Computer Science student.</div>  
   
 
-- 🖥️ I’m currently working on a [Weather App](https://weather-app-beta-five-97.vercel.app/)  
+- 🖥️ I’m currently working on a portfolio website, as well as additional side-projects  
   
 
-- 🌱 Right now, i'm learning DSA, Web Development, and NodeJS  
+- 🌱 Right now, i'm learning DSA, Web Development, and NodeJS
+  
+
+- 📫 Reach me at disham0023@gmail.com
   
 
 - ⚡ Fun fact; I'm just here for the green squares, lol  
