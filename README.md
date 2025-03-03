@@ -6,7 +6,7 @@
 ### <div align="center">I'm Disha, a second-year Computer Science student.</div>  
   
 
-- 🖥️ I’m currently working on a portfolio website, as well as additional side-projects  
+- 🖥️ I’m currently working on a blog website, as well as additional side-projects  
   
 
 - 🌱 Right now, i'm learning DSA, Web Development, and NodeJS
